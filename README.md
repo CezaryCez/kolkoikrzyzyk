@@ -1,0 +1,2 @@
+# kolkoikrzyzyk
+python
